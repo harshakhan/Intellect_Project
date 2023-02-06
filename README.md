@@ -12,7 +12,8 @@ change. Range is 0-10.
 
 **For the following question I have attached the one slide link**  - **https://docs.google.com/presentation/d/1Oa5_PfN8g6eyFnn4bprBaGWoA7Dr9-rw1_gCXYKYLsg/edit?usp=sharing**
 
-![Screenshot from 2023-02-06 11-46-52](https://user-images.githubusercontent.com/55456403/216897636-72534303-26af-4d52-8109-afa175b8648a.png)
+![Screenshot from 2023-02-06 14-34-16](https://user-images.githubusercontent.com/55456403/216929895-f3996731-a740-48f6-ad60-fb6d8140270c.png)
+
 
 **Modile View -**
 
