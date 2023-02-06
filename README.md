@@ -10,7 +10,7 @@ change. Range is 0-10.
 
 -The 2nd widget, Users can select any bar on the scale, range is 1-5.
 
-**For the following question I have attached the one slide link**  - **https://docs.google.com/presentation/d/1Oa5_PfN8g6eyFnn4bprBaGWoA7Dr9-rw1_gCXYKYLsg/edit?usp=sharing**
+**For the following question I have attached the google slide link**  - **https://docs.google.com/presentation/d/1Oa5_PfN8g6eyFnn4bprBaGWoA7Dr9-rw1_gCXYKYLsg/edit?usp=sharing**
 
 ![Screenshot from 2023-02-06 14-34-16](https://user-images.githubusercontent.com/55456403/216929895-f3996731-a740-48f6-ad60-fb6d8140270c.png)
 
