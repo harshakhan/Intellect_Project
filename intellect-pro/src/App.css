@@ -9,17 +9,11 @@
   display: flex;
 }
 
-.widget_1 {
-  /* border: 1px solid red; */
-  
-}
-
 .widget_header {
   font-size: 28px;
   font-weight: 500;
   background: #2a5c6e;
   color: white;
-  /* border: 1px solid black; */
   display: flex;
   align-items: center;
   justify-content: center;
@@ -32,6 +26,7 @@
   color: white;
   display: flex;
   align-items: center;
+  flex-direction: column;
   justify-content: center;
 }
 
@@ -81,17 +76,6 @@
   background: aquamarine;
 }
 
-
-
-
-
-
-
-
-.widget_2 {
-  /* border: 1px solid green; */
-}
-
 .triangle {
   position: relative;
   height: 320px;
@@ -104,9 +88,9 @@
   height: 60px;
   margin: 0 auto 10px;
   color: white;
-  /* line-height: 100px; */
   text-align: center;
   font-size: 0.8rem;
+  cursor: pointer;
 }
 
 .triangle div:hover{
