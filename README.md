@@ -14,4 +14,8 @@ change. Range is 0-10.
 
 ![Screenshot from 2023-02-06 11-46-52](https://user-images.githubusercontent.com/55456403/216897636-72534303-26af-4d52-8109-afa175b8648a.png)
 
+**Modile View -**
+
+![Screenshot from 2023-02-06 14-32-21](https://user-images.githubusercontent.com/55456403/216929501-a409a4a4-2cba-4673-ad1b-145652054a1d.png)
+
 
