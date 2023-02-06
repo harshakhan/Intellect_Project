@@ -1,13 +1,12 @@
 # Intellect_Project-
 There are two design and the widget responsive for mobile devices.  
 
-1. **Widget 1** ->
+1. **Widget 1** >
 
-1st widget, User can change the slider at the bottom and
--Number inside the circle and the circular bar around the circle will
+- 1st widget, User can change the slider at the bottom and the number inside the circle and the circular bar around the circle will
 change. Range is 0-10.
 
-2. **Widget 2** ->
+2. **Widget 2** >
 
 -The 2nd widget, Users can select any bar on the scale, range is 1-5.
 
